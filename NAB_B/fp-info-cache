@@ -1,4 +1,4 @@
-95642076577261
+96194471398359
 N_X
 DIP-переключатель_DS1040-02
 
@@ -28,13 +28,6 @@ DSUB-DB9_End_Female
 9
 9
 N_X
-pcb_raspberry_pi_zero
-
-
-0
-44
-41
-N_X
 USB_B
 USB B connector
 USB_B USB_DEV
@@ -49,12 +42,12 @@ USB_PLUG
 4
 4
 N_X
-батарейный_отсек_CR2032
+pcb_raspberry_pi_zero
 
 
 0
-2
-2
+44
+41
 N_X
 Вилка_DS1070-5_MR
 
@@ -371,13 +364,6 @@ N_X
 2
 2
 N_X
-реле_NRP-02
-
-
-0
-6
-6
-N_X
 Розетка_KLS1-SMA001
 
 
@@ -413,6 +399,13 @@ N_X
 8
 7
 N_X
+Розетка_USB_Type-C_16pins_4legs
+http://www.palpilot.com/wp-content/uploads/2017/05/UTC027-GKN-OR-Rev-A.pdf
+USB C Type-C Receptacle USB2.0
+0
+20
+17
+N_X
 Розетка_USB_type-c_6pins_4legs
 
 
@@ -420,9 +413,16 @@ N_X
 10
 6
 N_X
-Розетка_USB_Type-C_16pins_4legs
-http://www.palpilot.com/wp-content/uploads/2017/05/UTC027-GKN-OR-Rev-A.pdf
-USB C Type-C Receptacle USB2.0
+батарейный_отсек_CR2032
+
+
 0
-20
-17
+2
+2
+N_X
+реле_NRP-02
+
+
+0
+6
+6
